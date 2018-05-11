@@ -1,4 +1,4 @@
-# [*DEF-CON-Talk-Notes*](defconimage.jpg)
+# ![*DEF-CON-Talk-Notes*](defconimage.jpg)
 ===
 
 ## **DEF-CON 25**
