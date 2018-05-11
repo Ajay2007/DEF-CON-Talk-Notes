@@ -5,7 +5,7 @@
 
 
 
-[IoT Village ](https://github.com/Ajay2007/DEF-CON-Talk_Notes/iot_village.txt)
+[IoT Village ](https://github.com/Ajay2007/DEF-CON-Talk_Notes/blob/master/ot_village.txt)
 
 
 Some basic Git commands are :
